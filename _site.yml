@@ -1,0 +1,11 @@
+name: "RStudio-tutorials"
+output_dir: "."
+navbar:
+  title: "RStudio tutorials"
+  left:
+    - text: "Using RStudio Server to clone a Github repo as a new project"
+      href: Tutorial_1.html
+    - text: "How to stage, commit, and push to GitHub using RStudio Server"
+      href: Tutorial_2.html
+    - text: "How to submit your homework assignment using Pull Requests"
+      href: Tutorial_3.html
