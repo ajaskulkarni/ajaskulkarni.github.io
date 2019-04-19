@@ -1,1 +1,0 @@
-# ajaskulkarni.github.io
